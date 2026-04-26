@@ -8,9 +8,9 @@ import (
 
 func main() {
 	url := []string{
-		"https://www.google.com",
+		"https://cuevana3.st/",
 		"https://github.com",
-		"https://www.twitter.com",
+		"https://infoext2.delegaciondelgobierno.gob.es/infoext2/index.html",
 	}
 	for _, url := range url {
 		revisarEstado(url)
